@@ -1,7 +1,8 @@
 [![Version](https://img.shields.io/github/v/release/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP/releases/latest)
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green?label)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP/blob/main/LICENSE-Apache-2.0)
-[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-green?label)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP/blob/main/LICENSE-BSD-3-Clause)
-[![Examples Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP/Test-Examples.yml?logo=arm&logoColor=0091bd&label=Examples%20Build%20Test)](./.ci)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-green?label=License)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP/blob/main/LICENSE-Apache-2.0)
+[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-green?label=License)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP/blob/main/LICENSE-BSD-3-Clause)
+[![Examples Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP/Test-Examples.yml?logo=arm&logoColor=0091bd&label=Examples%20Build%20Test)](./.github/workflows/Test-Examples.yml)
+[![Pack build](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP/pack.yml?logo=arm&logoColor=0091bd&label=Build%20pack)](https://github.com/Open-CMSIS-Pack/ST_NUCLEO-G474RE_BSP/tree/main/.github/workflows/pack.yml)
 
 # ST_NUCLEO-G474RE_BSP
 
